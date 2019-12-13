@@ -13,4 +13,4 @@ For Using ForecastFlow from Alteryx
 1. Click *[Import script...]* and choose the ipynb file.
 
 ### Open yxwz file.
-1. It's easy. Please click forecastflow_sample.yxmd icon.
+1. It's easy. Please click forecastflow_sample.yxwz icon.
