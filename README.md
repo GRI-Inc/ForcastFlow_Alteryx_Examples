@@ -2,7 +2,7 @@
 For Using ForecastFlow from Alteryx
 
 ***
-Two way to use ForecastFlow from Alteryx.
+## Two way to use ForecastFlow from Alteryx.
 1. On python object, import the ipynb file in this repository.
 1. Open sample ywxz file.
 
